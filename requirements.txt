@@ -1,3 +1,4 @@
+dvc[gs]
 hyperopt
 mlflow~=2.0.1
 pandas
